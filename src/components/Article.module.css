@@ -1,0 +1,14 @@
+.sort {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.shape {
+    width: 500px;
+    height: 700px;
+    border: 1px solid white;
+    margin: auto;
+    color: white;
+}

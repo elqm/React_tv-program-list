@@ -1,0 +1,36 @@
+.content {
+    /* width: 70%; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.deco {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+    color: white;
+    margin: 30px;
+    margin-right: 135px;
+    margin-top: 40px;
+}
+
+.deco1 {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+    color: white;
+    margin-right: 135px;
+}
+.deco2 {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+    color: white;
+    margin-top: -10px;
+    margin-right: 135px;
+    margin-bottom: 20px;
+}

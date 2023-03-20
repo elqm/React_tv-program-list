@@ -1,0 +1,29 @@
+.dramaItem {
+    background: black;
+    border: 1px solid white;
+    width: 400px;
+    margin: 10px;
+    color: white;
+    /* font-family: '굴림'; */
+    font-weight: 20px;
+    font-size: 20px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.dramaItem:hover {
+    border: 3px solid white;
+}
+
+.castItem {
+    background: black;
+    border: 1px solid white;
+    width: 350px;
+    margin: 10px;
+    color: white;
+    /* font-family: '굴림'; */
+    font-weight: 20px;
+    font-size: 20px;
+    text-align: center;
+    word-wrap: break-word;
+}

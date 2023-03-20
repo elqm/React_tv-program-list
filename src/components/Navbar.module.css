@@ -1,0 +1,18 @@
+.menubar {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+}
+
+.menu {
+    margin: auto;
+    color: white;
+}
+
+.word {
+    color: white;
+}

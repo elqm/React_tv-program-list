@@ -1,0 +1,5 @@
+.goog-trans{background:#f0f0f0}
+.goog-trans-control{float:left;height:40px}
+.goog-trans-control a{display:inline-block;padding:0 10px;height:40px;line-height:40px;background:#383838;color:#fff;text-align:center;text-decoration:none}
+.goog-trans-info{float:left;margin:0 0 0 10px;height:40px;line-height:40px;color:#686868}
+.goog-trans:after{display:block;visibility:hidden;clear:both;content:''}
